@@ -22,3 +22,8 @@ function generateFibonacci() {
 	}
 }
 ```
+
+- [x] Complete the lesson - Introduction to GitHub.
+- [ ] Complete the lesson - Using Markdown.
+- [ ] Complete the lesson - Introduction to GitHub Pages.
+
